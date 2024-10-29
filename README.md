@@ -1,2 +1,12 @@
 ## BI_ML_2024
-United ML homeworks done in Bioinformatics Institute
+This repository contains a series of machine learning assignments completed for the Bioinformatics Institute's 2024 curriculum. The assignments are structured as individual folders, each representing a unique project or concept within the machine learning curriculum.
+
+1. [**HW_1**](https://github.com/Cucumberan/BI_ML_2024/tree/main/HW_1/code).  
+    First homework focusing on introductory machine learning techniques.
+2. [**HW_2**](https://github.com/Cucumberan/BI_ML_2024/tree/main/HW_2).  
+ This assignment covers training linear regression and classification models using gradient descent, and includes practical exercises with pre-built models for regression and binary classification tasks.
+3. [**HW_3**](https://github.com/Cucumberan/BI_ML_2024/tree/main/HW_3)  This assignment involves implementing and exploring clustering algorithms, including a custom KMeans model and hierarchical clustering methods. It emphasizes comparing clustering quality metrics to determine the most effective configurations and includes a practical task for annotating cell types in flow cytometry data.
+4. [**HW_4**](https://github.com/Cucumberan/BI_ML_2024/tree/main/HW_4)  This assignment focuses on classifying music genres using pre-processed features rather than audio tracks. The main goal was to predict the "Class" variable (music genre) using decision trees, with an option to try additional classification models and compare performance. Proper training/test splitting or cross-validation is emphasized for model evaluation.
+5. [**HW_5**](https://github.com/Cucumberan/BI_ML_2024/tree/main/HW_5)  This project explores the bias-variance trade-off by tuning tree depth in a DecisionTreeRegressor and assessing model fit. It introduces ensemble learning through simple voting and the implementation of a custom RandomForestClassifier, followed by analyzing correlation among base models in RandomForest to optimize ensemble performance.
+6. [**HW_7**](https://github.com/Cucumberan/BI_ML_2024/tree/main/HW_7)  In this project, a neural network was built and trained on the KMNIST dataset to classify handwritten characters. Key tasks included implementing and training a custom multi-layer perceptron (MLP), visualizing class data, experimenting with different activation functions and optimizers, and creating a custom ReLU activation. The project provided hands-on experience in tuning model parameters and analyzing the effects on model accuracy and convergence.
+7. [**HW_8**](https://github.com/Cucumberan/BI_ML_2024/tree/main/HW_8).  This project involved developing custom implementations of convolution and the AlexNet neural network. 
